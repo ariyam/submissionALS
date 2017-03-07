@@ -5,7 +5,7 @@ https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
 The training Yahoo dataset used in our experiments, even in compressed format, is more than 1GB which violates the Github upload limit restrictions. Please contact the author (firstname AT cs.ucla.edu) for one-time private Dropbox link.
 
 2. Amazon Reviews Dataset: This dataset is managed by Julian McAuley (julian.mcauley@gmail.com). Please visit this link to request for the data. http://jmcauley.ucsd.edu/data/amazon/
-For reproducability purposes, our processed training, validation and test datasets used in our experiments have been uploaded under the folder 'data'.
+For reproducability purposes, our processed training, validation and test datasets used in our experiments have been uploaded under the 'data'. The training dataset has been further split into smaller parts to avoid the Github 100MB restriction per file.
 
 
 
